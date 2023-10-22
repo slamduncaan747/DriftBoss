@@ -1,4 +1,4 @@
-com.unity.cinemachine@2.9.5
+com.unity.cinemachine@2.6.17
 com.unity.collab-proxy@2.1.0
 com.unity.connect.share@4.2.3
 com.unity.ide.rider@3.0.25
